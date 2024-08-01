@@ -1,4 +1,4 @@
-## Metropolis
+## Group Meeting, theme Metropolis
 
 
 ## Intro
