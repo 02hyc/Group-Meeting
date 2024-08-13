@@ -1,3 +1,7 @@
+## Notice
+
+This repository will never be updated. You can have access to the latest slides in the Typst version [here](https://github.com/02hyc/Group-Meeting-Typst).
+
 ## Group Meeting, theme Metropolis
 
 
